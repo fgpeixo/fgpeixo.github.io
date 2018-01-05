@@ -3,7 +3,7 @@
 ## ABAP
 - Dynamic Programming
 
-'''ABAP
+```abap
 data: lt_key_components type abap_component_tab,
       lt_keys           type ref to data.
 
@@ -32,7 +32,7 @@ data(lr_key_table) = cl_abap_tabledescr=>get( exporting p_line_type = lr_key_str
 check lr_key_table is bound.
 create data lt_keys type handle lr_key_table.
 assign lt_keys->* to <lt_keys>.
-'''
+```
 
 ## SAPUI5
 
