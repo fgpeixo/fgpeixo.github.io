@@ -51,3 +51,4 @@ assign lt_keys->* to <lt_keys>.
  - Linux - bash-git-prompt
  - X-Plat - starship
 
+[link_test](./link_test.md)
