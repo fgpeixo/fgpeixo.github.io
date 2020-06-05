@@ -1,7 +1,7 @@
 # Terminal
 - Windows Terminal
 - Bash
-- Starship[https://starship.rs/]
+- [Starship](https://starship.rs/)
 - Tmux
 
 # Text Editor
