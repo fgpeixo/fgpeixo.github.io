@@ -1,3 +1,6 @@
+I do not claim that the comments after the commands are 100% accurate.
+I also do not claim that this is the only way of running such commands.
+
 # Tmux
 - tmux ls => List all sessions
 - tmux new -s <session_name> => Create new session with name <session_name>
@@ -16,3 +19,9 @@
 - git status => Check the current status of the repository
 - git checkout <branch name|commit id> => Checkout a branch or commit
 - git branch => Lists branches in the repository
+- git remote add <remote name> <url> => Add remote to repository
+- git branch --set-upstream-to=<remote name>/<remote branch> => Link the current branch to a remote branch
+- git push => Pushes the local changes to remote
+- git fetch => Fetchs changes on the remote
+- git merge <branch> => Merge <branch> onto the current branch
+- git pull => git fetch && git merge 
