@@ -3,6 +3,7 @@
 - Bash
 - [Starship](https://starship.rs/)
 - Tmux
+- Powerline
 
 # Text Editor
 - Vim
