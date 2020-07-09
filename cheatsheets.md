@@ -14,3 +14,5 @@
 - git commit => Commit the contents of the staging area
 - git log => Check the history of the commits
 - git status => Check the current status of the repository
+- git checkout <branch name|commit id> => Checkout a branch or commit
+- git branch => Lists branches in the repository
