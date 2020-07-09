@@ -7,3 +7,10 @@
 - Ctrl+b + x => Close pane
 - Ctrl+b + o => Navigate to other panes
 - Ctrl+b + d => Dettach session
+
+# Git
+- git init => Initiates Git repository
+- git add <file> => Add file to the staging area
+- git commit => Commit the contents of the staging area
+- git log => Check the history of the commits
+- git status => Check the current status of the repository
