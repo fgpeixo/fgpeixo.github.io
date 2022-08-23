@@ -25,3 +25,4 @@ I also do not claim that this is the only way of running such commands.
 - git fetch => Fetchs changes on the remote
 - git merge <branch> => Merge <branch> onto the current branch
 - git pull => git fetch && git merge 
+- git clone <repo url> => clones remote repository to a local repository
