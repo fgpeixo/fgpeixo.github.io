@@ -17,7 +17,7 @@ I also do not claim that this is the only way of running such commands.
 - git commit => Commit the contents of the staging area
 - git log => Check the history of the commits
 - git status => Check the current status of the repository
-- git checkout <branch name|commit id> => Checkout a branch or commit
+- git checkout <branch name\|commit id> => Checkout a branch or commit
 - git branch => Lists branches in the repository
 - git remote add <remote name> <url> => Add remote to repository
 - git branch --set-upstream-to=<remote name>/<remote branch> => Link the current branch to a remote branch
