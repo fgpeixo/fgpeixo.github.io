@@ -1,3 +1,6 @@
+# System
+- FiraCode Font
+
 # Terminal
 - Windows Terminal
 - Bash
