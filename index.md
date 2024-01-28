@@ -1,5 +1,5 @@
 ---
-title: ABAP Development 
+title: Home 
 ---
 
 This is my blog about ABAP development containing a range of posts from quick tips and tricks to in depth articles.
