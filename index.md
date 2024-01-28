@@ -2,11 +2,9 @@
 title: ABAP Development 
 ---
 
-Development Diary about ABAP development containing a range of blog posts from quick tips and tricks to in depth articles.
+This is my blog about ABAP development containing a range of posts from quick tips and tricks to in depth articles.
 
-For in depth article, please follow the links below. Blog posts can be found in the lower part of the page.
-
-[ABAP](ABAP.md)|[Tools](tools.md)|[Cheatsheets](cheatsheets.md)|[Resources](resources.md)
+For in depth articles, please follow the links above. Blog posts can be found below.
 
 # Topics to explore as TIL
 - CDS
