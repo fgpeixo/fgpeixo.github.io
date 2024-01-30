@@ -1,5 +1,5 @@
 ---
-title: TIL - Restulf ABAP Programming Model - Side Effects in S/4HANA 2021
+title: TIL - Restful ABAP Programming Model - Side Effects in S/4HANA 2021
 date: 2024-01-30
 tags: [RAP, Side Effects, Restfull ABAP Programming Model]
 ---
