@@ -15,7 +15,10 @@ In this post, I will explore how to work with Side Effects in S/4HANA 2021.
 
 ## What Are Side Effects?
 
-Side Effects are used to ...
+Side Effects 
+If a user changes the content of a field or performs another activity, this change can potentially influence other fields on the UI. This system behavior is called a side effect.
+
+## How Can Side Effects be leveraged in S/4HANA 2023?
 
 ## How Can Side Effects be leveraged in S/4HANA 2021?
 
