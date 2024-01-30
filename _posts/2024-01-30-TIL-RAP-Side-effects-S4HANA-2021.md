@@ -19,6 +19,6 @@ Side Effects are used to ...
 
 # How Can Side Effects be leveraged in S/4HANA 2021?
 
-## Determinations, Validations, Determine Actions
+### Determinations, Validations, Determine Actions
 
 ## Local Annotations
