@@ -4,7 +4,7 @@ date: 2024-01-30
 tags: [RAP, Side Effects, Restfull ABAP Programming Model]
 ---
 
-#H1 Introduction
+# Introduction
 
 A few days ago I have been requested to review a few requirements for a new application and it seemed like a good oportunity to explore Restful ABAP Programming Model (RAP) Side Effects.
 I had studied about Side Effects in RAP context before, so I was aware of its use cases, however I had not implemented it in a real project.
@@ -13,12 +13,12 @@ To my disapointment, Side Effects for RAP are only available in on-premisse inst
 
 In this post, I will explore how to work with Side Effects in S/4HANA 2021. 
 
-#H1 What Are Side Effects?
+# What Are Side Effects?
 
 Side Effects are used to ...
 
-#H1 How Can Side Effects be leveraged in S/4HANA 2021?
+# How Can Side Effects be leveraged in S/4HANA 2021?
 
-#H2 Determinations, Validations, Determine Actions
+## Determinations, Validations, Determine Actions
 
-#H2 Local Annotations
+## Local Annotations
